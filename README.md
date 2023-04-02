@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🎛 Agile Methodology Explorer 
 ##
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-rt&style=plastic&color=white" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-rt&style=plastic&color=yellow" /> </p>
