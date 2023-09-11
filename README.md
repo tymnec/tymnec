@@ -8,7 +8,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tymnec&show_icons=true&locale=en&layout=compact" alt="tymnec" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tymnec&show_icons=true&locale=en" alt="tymnec" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tymnec&" alt="tymnec" /></p>
-
