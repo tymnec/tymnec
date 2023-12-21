@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Hi there!</h1>
 
-I'm Nikhil, a passionate Next.js developer.
+I'm Nikhil, a passionate Software developer.
 
 🚀 I love building web applications with a focus on performance and user experience.
 
@@ -12,15 +12,20 @@ I'm Nikhil, a passionate Next.js developer.
 - **Database:** MongoDB, MySQL
 - **Other:** Git, Webpack, RESTful APIs
 
+## Expertise in these:
+
+
 ## Projects
 
-### [E-Commerce Platform](link-to-e-commerce-repo)
-- A full-fledged e-commerce platform built with Next.js.
-- Features: Product listings, user authentication, shopping cart, checkout process, SEO optimization.
+### Trello Like Web App
+![image](https://github.com/tymnec/tymnec/assets/84772872/9e22b192-81fc-4a44-b15b-662b15a2b860)
 
-### [Blog Platform](link-to-blog-repo)
-- A personal blog platform with server-side rendering using Next.js.
-- Features: CRUD operations for blog posts, commenting system.
+Link to live website: https://trello-clone-nikhil.vercel.app/
+
+### Motion - A Notion Like Web App
+![image](https://github.com/tymnec/tymnec/assets/84772872/acac5360-fca4-430a-ab94-b2642d0c95a0)
+
+Link to live website: https://motion-project.vercel.app/
 
 ## Connect with Me
 
